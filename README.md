@@ -44,7 +44,7 @@ npm install
 
 # 生产构建
 npm run dev
-
+```
 ## 目录结构
 src/
 ├─components/                # 核心功能组件
