@@ -44,7 +44,7 @@ npm install
 
 # 生产构建
 npm run dev
-```
+
 ## 目录结构
 src/
 ├─components/                # 核心功能组件
@@ -73,7 +73,7 @@ src/
 
 
 └─App.vue                   # 主容器（含权限指令）
-
+```
 ## 效果展示
 ![image](https://github.com/user-attachments/assets/fbaa3a1e-1205-410c-a3bd-4fb4ab925755)
 
