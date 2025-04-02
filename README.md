@@ -82,5 +82,16 @@ src/
 ![image](https://github.com/user-attachments/assets/759e64b4-c511-47c3-8fcd-8cd245e2188d)
 
 ![a7214ee25a59c323247c6ed19583ce8](https://github.com/user-attachments/assets/31936a36-2cdb-404a-a4dc-6da35a459bdc)
-```
+![image](https://github.com/user-attachments/assets/f445c1c5-c5ea-4a78-936e-e8eb4b346459)
 
+![image](https://github.com/user-attachments/assets/0b843825-ca8f-431c-ae8b-74d7d453fbc6)
+
+### 买家聊天
+![image](https://github.com/user-attachments/assets/a6534d8b-8efb-4a51-b86c-9592f65b425a)
+![image](https://github.com/user-attachments/assets/b881c2ec-7375-433e-8498-152c64c1e996)
+
+![image](https://github.com/user-attachments/assets/c9aa3d3d-2b6d-4322-9a68-0f0628ea6844)
+![image](https://github.com/user-attachments/assets/95cc0d2a-5e15-40ae-a677-a7f4371b5149)
+
+### 管理员后台
+![a7214ee25a59c323247c6ed19583ce8](https://github.com/user-attachments/assets/abf9518a-d22b-41d8-bf50-88acd1bada85)
